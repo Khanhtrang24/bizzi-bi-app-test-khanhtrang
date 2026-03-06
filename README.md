@@ -1,5 +1,4 @@
 # bizzi-bi-app-test-khanhtrang
-# Bizzi BI AP Test
 
 ## PostgreSQL Version
 
